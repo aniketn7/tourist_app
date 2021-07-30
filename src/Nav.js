@@ -8,7 +8,7 @@ class Nav extends React.Component{
     render(){
        return(
            <div>
-               <h1> Devam and Narks app</h1>
+               <h1> Devam and Narks app navigation bar</h1>
            </div>
        )
     }
