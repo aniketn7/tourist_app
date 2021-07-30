@@ -7,7 +7,7 @@ class Footer extends React.Component {
     render() {
         return (
             <div>
-                <h1>Footer</h1>
+                <h1>Footer changed = devam</h1>
             </div>
         )
     }
