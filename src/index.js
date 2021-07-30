@@ -2,11 +2,18 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Nav from './Nav'
+import Footer from './Footer'
 import reportWebVitals from './reportWebVitals';
+import MainContent from './MainContent';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+  < Nav />
+  <MainContent/>
+  <Footer/>
+  
+  
   </React.StrictMode>,
   document.getElementById('root')
 );
